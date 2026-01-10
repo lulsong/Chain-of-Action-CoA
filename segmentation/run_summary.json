@@ -1,0 +1,19 @@
+{
+  "timestamp": "2025-09-25T23:02:18.792630",
+  "subset_mode": "success",
+  "episodes_kept": 3360,
+  "episodes_skipped": 1146,
+  "clusters": 9,
+  "min_seg_len": 18,
+  "penalty": 6.0,
+  "cluster_algo": "KMeans",
+  "k_if_kmeans": 9,
+  "dp_lam_if_dpmeans": null,
+  "noise_thresholds": {
+    "acc95": 0.01,
+    "tv": 0.005,
+    "grip_rate": 0.2
+  },
+  "embed_sample": 50000,
+  "silhouette_on_sample": 0.07717115432024002
+}

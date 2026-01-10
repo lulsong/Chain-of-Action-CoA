@@ -1,0 +1,39 @@
+{
+  "d_model": 1024,
+  "K": 9,
+  "kept": 12352,
+  "miss_inst": 1187,
+  "miss_img": 0,
+  "miss_skill": 1146,
+  "no_state_cnt": 0,
+  "state_dim": 8,
+  "state_mean": [
+    0.015818925574421883,
+    0.23815105855464935,
+    -0.006744406186044216,
+    -2.0397963523864746,
+    -0.040380917489528656,
+    2.3089799880981445,
+    0.11442895233631134,
+    0.3593518137931824
+  ],
+  "state_std": [
+    0.3034903109073639,
+    0.574798047542572,
+    0.26419052481651306,
+    0.48971113562583923,
+    0.47038835287094116,
+    0.4668036103248596,
+    0.7189820408821106,
+    0.36402428150177
+  ],
+  "episode_dir": "episodes",
+  "tokenizer": "/home/lulsong/Downloads/paligemma-3b-pt-224",
+  "pi0_ckpt_path": "/home/lulsong/Downloads/pi0_droid_pytorch",
+  "image_resolution": [
+    224,
+    224
+  ],
+  "suffix_format": "{ep_hash}_suffix_{i:02d}.npz",
+  "note": "Each sample is a suffix from t0_i to episode end; H_vis_start/state taken at exact t0_i."
+}

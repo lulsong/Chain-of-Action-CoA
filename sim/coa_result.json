@@ -1,0 +1,48 @@
+{
+  "summary": [
+    {
+      "skill_id": 2,
+      "steps": 60,
+      "p_done_last": 0.09156802296638489
+    },
+    {
+      "skill_id": 5,
+      "steps": 60,
+      "p_done_last": 0.1523105949163437
+    },
+    {
+      "skill_id": 2,
+      "steps": 60,
+      "p_done_last": 0.0908011868596077
+    },
+    {
+      "skill_id": 3,
+      "steps": 60,
+      "p_done_last": 0.09149421006441116
+    },
+    {
+      "skill_id": 4,
+      "steps": 60,
+      "p_done_last": 0.04605519026517868
+    },
+    {
+      "skill_id": 5,
+      "steps": 60,
+      "p_done_last": 0.1531696617603302
+    },
+    {
+      "skill_id": 4,
+      "steps": 60,
+      "p_done_last": 0.04713927209377289
+    }
+  ],
+  "skill_seq": [
+    2,
+    5,
+    2,
+    3,
+    4,
+    5,
+    4
+  ]
+}
